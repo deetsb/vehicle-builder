@@ -421,7 +421,7 @@ class Cli {
           // exit the cli if the user selects exit
           this.exit = true;
         }
-        if (!this.exit) {
+        if (!this.exit && answers.action !== 'Wheelie' && answers.action !== 'Tow' && answers.action !== 'Select or create another vehicle') {
           // if the user does not want to exit, perform actions on the selected vehicle
           this.performActions();
         }
@@ -455,4 +455,3 @@ class Cli {
 
 // export the Cli class
 export default Cli;
-
