@@ -27,7 +27,7 @@ npm start
 
 ## Links
 - [GitHub Repo](https://github.com/deetsb/vehicle-builder)
-- [Walkthrough Video]()
+- [Walkthrough Video](https://app.screencastify.com/v3/watch/hAEZup1DF53QPEZKlY8F)
 
 ## Questions
 Should you have questions, please reach me via:
